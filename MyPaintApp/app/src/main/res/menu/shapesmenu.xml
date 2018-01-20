@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/rect"
+        android:title="@string/rect"/>
+    <item android:id="@+id/sq"
+        android:title="@string/sq" />
+    <item android:id="@+id/circle"
+        android:title="@string/circle" />
+</menu>
